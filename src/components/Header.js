@@ -4,7 +4,7 @@ function Header(){
         <div>
             <header>
                 <nav>
-                    <h1></h1>
+                    <h1>hello</h1>
                 </nav>
             </header>
         </div>
