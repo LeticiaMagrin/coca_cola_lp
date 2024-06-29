@@ -3,7 +3,9 @@ function Header(){
     return (
         <div>
             <header>
-                <nav></nav>
+                <nav>
+                    <h1></h1>
+                </nav>
             </header>
         </div>
     )
